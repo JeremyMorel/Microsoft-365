@@ -8,7 +8,7 @@ https://github.com/microsoftgraph/powershell-intune-samples
 
 .NOTES
     FileName:    Setup-Intune.ps1
-    Author:      Alex Fields 
+    Author:      Jeremy M. Morel 
 	Based on:    Per Larsen / Frank Simorjay
     Created:     October 2019
 	Revised:     November 2020
